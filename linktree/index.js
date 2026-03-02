@@ -18,7 +18,7 @@ const profileData = {
     {
       id: "3",
       title: "Discord Community",
-      url: "https://discord.gg/HtRaAfA5",
+      url: "https://discord.gg/VRYpmrm9u",
       image: "icon/community.png",
     },
     {
