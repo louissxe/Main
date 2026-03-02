@@ -39,7 +39,6 @@ body {
   z-index: -1;
 }
 
-/* Fog dinonaktifkan untuk performa - bisa diaktifkan lagi kalau perlu */
 .fog {
   display: none;
 }
@@ -138,7 +137,6 @@ main {
   transform: scale(0.98);
 }
 
-/* Icon */
 .link-icon-container {
   width: 40px;
   height: 40px;
@@ -173,7 +171,6 @@ main {
   flex: 1;
 }
 
-/* External Link Arrow */
 .external-arrow {
   width: 18px;
   height: 18px;
@@ -184,7 +181,6 @@ main {
   color: var(--text-primary);
 }
 
-/* Social Links */
 .social-links {
   display: flex;
   justify-content: center;
@@ -224,7 +220,6 @@ main {
   object-fit: contain;
 }
 
-/* Footer */
 .footer {
   text-align: center;
   margin-top: 40px;
@@ -242,7 +237,6 @@ main {
   color: #ffffff;
 }
 
-/* Canvas */
 #hero-canvas {
   position: fixed;
   top: 0;
