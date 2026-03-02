@@ -1,4 +1,4 @@
-// 1. Data Profile Awal - Minimalis & Bersih
+
 const profileData = {
   name: "Louis Syahputra",
   handle: "@louissxe",
@@ -30,7 +30,6 @@ const profileData = {
   ],
 };
 
-// 2. Fungsi Render Links
 function renderLinks() {
   const container = document.getElementById("links-container");
   if (!container) return;
@@ -63,7 +62,6 @@ function renderLinks() {
   }
 }
 
-// Initial Render
 document.addEventListener("DOMContentLoaded", () => {
   renderLinks();
   if (window.lucide) {
