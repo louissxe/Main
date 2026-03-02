@@ -6,7 +6,7 @@ const profileData = {
     {
       id: "1",
       title: "Digital Portfolio",
-      url: "https://louissxe.site/portfolio",
+      url: "https://louissxe.github.io/Main/portfolio/",
       image: "portfolio.png",
     },
     {
