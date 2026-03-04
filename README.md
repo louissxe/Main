@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/louissxe/Main/blob/main/dino.gif?raw=true"/>
+  <img src="https://github.com/louissxe/Main/blob/main/luxvs-community/image/background.gif?raw=true"/>
 </div>
 
 <div align="center">
